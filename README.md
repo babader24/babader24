@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babader24&label=Profile%20views&color=0e75b6&style=flat" alt="babader24" /> </p>
 
+<img align="right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+
 - 🔭 I’m currently working on **DVLD**
 
 - 🌱 I’m currently learning **APIs, T-SQL, Data Structure, Algos, React, Nodejs, Saas**
